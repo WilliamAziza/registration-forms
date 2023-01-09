@@ -1,0 +1,171 @@
+
+}
+.main-container{	
+	width: 50%;
+	
+}
+.blue {
+	background-color: blue;
+	height: 10px;
+	border: none;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.Codeform{
+	padding: 2rem;
+}
+.red {
+	color: red;
+}
+.Top {
+	background-color: white;
+	height: 200px;
+	border: none;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.Required {
+	background-color: white;
+	height: 100px;
+	border-top: 1px solid;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+.star {
+	color: red;
+}
+.mail {
+	border: none;
+	border-radius: 5px;
+	height: 100px;
+	background-color: white;
+	padding: 2rem;
+	margin-top: 15px;
+}
+body {
+	background-color: lightblue;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+input[type=text] {
+	border: none;
+	border-bottom: 1px solid black;
+	color: black;
+	background-color: white;
+	width: 500px;
+	margin-top: 30px;
+}
+
+input[type=button] {
+	background-color: blue;
+	color: white;
+	font-size: 15px;
+	border: none;
+	border-radius: 5px;
+	width: 80px;
+	height: 30px;
+}
+.container{
+	width: 50%;
+}
+.cont1 {
+	border: none;
+	border-radius: 5px;
+	padding: 2rem;
+	background-color: white;
+}
+.cont2 {
+	border: none;
+	border-radius: 5px;
+	height: 100px;
+	background-color: white;
+	padding: 2rem;
+}
+
+.cont3 {
+	border: none;
+	border-radius: 5px;
+	height: 100px;
+	background-color: white;
+	padding: 2rem;
+}
+.cont4 {
+	border: none;
+	border-radius: 5px;
+	height: 100px;
+	background-color: white;
+	padding: 2rem;
+}
+.cont5 {
+	border: none;
+	border-radius: 5px;
+	height: 150px;
+	background-color: white;
+	padding: 2rem;
+}
+.cont6 {
+	border: none;
+	border-radius: 5px;
+	height: 100px;
+	background-color: white;
+	padding: 2rem;
+}
+
+.cont7 {
+	border: none;
+	border-radius: 5px;
+	height: 100px;
+	background-color: white;
+	padding: 2rem;
+}
+
+.cont8 {
+	border: none;
+	border-radius: 5px;
+	height: 100px;
+	background-color: white;
+	padding: 2rem;
+}
+
+.cont9 {
+	border: none;
+	border-radius: 5px;
+	height: 100px;
+	background-color: white;
+	padding: 2rem;
+}
+
+.cont10 {
+	border: none;
+	border-radius: 5px;
+	height: 100px;
+	background-color: white;
+	padding: 2rem;
+}
+
+.cont11 {
+	border: none;
+	border-radius: 5px;
+	height: 100px;
+	background-color: white;
+	padding: 2rem;
+}
+.footer{
+	display: flex;
+	align-items: center;
+	padding-top: 10px;
+	justify-content: space-between;
+}
+.green {
+	background-color: green;
+	height: 10px;
+	width: 200px;
+	border: none;
+	border-radius: 20px;
+}
+.clear{
+	color: blue;
+}
+
+
